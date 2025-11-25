@@ -3,8 +3,13 @@ Prankware that spams a custom video to random coordinates on the screen in a con
 
 This is my first real python project.
 
+
+
 **run.py is the file to be executed
 main.py contains all functions and logic**
+
+
+
 
 *How does it work in detail?*
 
