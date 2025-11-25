@@ -8,8 +8,10 @@ main.py contains all functions and logic
 
 How does it work in detail?
 
-Contents of main.py
+Contents of main.py:
+
 The screen size is read, the coordinates of the custom video to be played are randomized, custom audio and video are played synchronously and played as a whole in the foreground.
 
-Contents of run.py
+Contents of run.py:
+
 The file main.py is executed in a loop a custom amount of times.
