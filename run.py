@@ -1,4 +1,3 @@
-import time
 from subprocess import Popen
 import sys, os
 
@@ -13,6 +12,7 @@ p = Popen([sys.executable, main_path])
 #loops through main.py file a custom amount of times
 for _ in range(1000): #set how many video-windows will be opened
     p = Popen(["python", "main.py"])
+
 
 
 
