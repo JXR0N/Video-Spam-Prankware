@@ -12,8 +12,9 @@ p = Popen([sys.executable, main_path])
 for _ in range(1000): #set how many video-windows will be opened
     p = Popen(["python", "main.py"])
 
-while True:
+while True: #infinite loop so script won't stop
     input()
+
 
 
 
